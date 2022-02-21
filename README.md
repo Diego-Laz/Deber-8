@@ -2,7 +2,7 @@
 
 # Fundamentos de Circuitos Eléctricos 
 # NRC:10149
-# Tarea 7
+# Tarea 8
 
  # Integrantes:
  
@@ -16,9 +16,14 @@ OBJETIVOS:
 
 1. Aplicar los conocimietos obtenidos en clases
 
-2. Entender y comprender el funcionamiento de los inductores y los transformadores 
+2. Entender y comprender el funcionamiento de los circuitos Rc y los circuitos RL
 
 MARCO TEÓRICO:
+
+![image](https://user-images.githubusercontent.com/93835463/154888410-057c24cc-faab-463d-8246-294be86afbb8.png)
+
+![image](https://user-images.githubusercontent.com/93835463/154897660-be1b529b-b518-4cb2-9849-33fd32ee659b.png)
+
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
