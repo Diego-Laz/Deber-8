@@ -48,6 +48,9 @@ capitulo 15
 ![image](https://user-images.githubusercontent.com/93835463/155036389-54baf8d9-7e73-4132-bd08-625e20a38471.png)
 ![image](https://user-images.githubusercontent.com/93835463/155036402-595596e4-b4a7-413b-b48d-ce3b6062e4e3.png)
 ![image](https://user-images.githubusercontent.com/93835463/155036406-fd9363cf-61cd-470a-8dde-f1648e6748c0.png)
+![image](https://user-images.githubusercontent.com/93835463/155065205-02b72071-5cd7-4c8d-b3a1-1706dc736c4e.png)
+![image](https://user-images.githubusercontent.com/93835463/155065214-8bb3b35c-8574-4f67-8f85-285f9a6dd807.png)
+![image](https://user-images.githubusercontent.com/93835463/155065224-8d4dc8a4-19f3-4d6e-a094-b2b79572477d.png)
 
 capitulo 16
 
