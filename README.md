@@ -83,6 +83,9 @@ https://www.youtube.com/watch?v=ofom5CVlA2I
 
 CONCLUSIONES:
 
+Durante la presente tarea, pudimos observar el correcto analisis e interpretacion de los ejercicios propuestos asi como la revision teorica de los temas a tratar.
+
+Dentro del sistema de circuitos RC se estudio la relacion de los componentes en serie y paralelo y cual es su efecto en el voltaje de salida.
 
 BIBLIOGRAFÍA:
 
